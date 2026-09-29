@@ -1,0 +1,10 @@
+cd - caminha entre diretórios 
+dir - lista diretórias
+mkdir - cria diretórias 
+rmdir - remove pastas 
+rmdir /s - remove pastas e subpastas 
+type nul - cria arquivos vazios
+ipconfig - número de rede
+ctrl s - salvar 
+color h - tabela de cores 
+color - (número para fundo, e número para as letras)
